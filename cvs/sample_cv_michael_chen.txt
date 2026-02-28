@@ -1,0 +1,106 @@
+MICHAEL CHEN
+DevOps Engineer & Cloud Architect
+
+Email: michael.chen@email.com
+Phone: +1-555-0789
+Location: Seattle, WA
+LinkedIn: linkedin.com/in/michaelchen
+GitHub: github.com/mchen-devops
+
+PROFESSIONAL SUMMARY
+DevOps Engineer with 6 years of experience in cloud infrastructure, automation, and CI/CD pipelines. AWS Certified Solutions Architect with extensive experience in containerization, orchestration, and infrastructure as code. Proven track record of building scalable and reliable systems.
+
+CORE COMPETENCIES
+Cloud Platforms: AWS (Expert), Azure (Advanced), Google Cloud Platform (Intermediate)
+Container Technologies: Docker, Kubernetes, ECS, EKS, Docker Swarm
+Infrastructure as Code: Terraform, CloudFormation, Ansible, Pulumi
+CI/CD Tools: Jenkins, GitLab CI/CD, GitHub Actions, CircleCI, ArgoCD
+Programming: Python, Bash, Go, PowerShell, YAML
+Monitoring & Logging: Prometheus, Grafana, ELK Stack, Datadog, CloudWatch
+Version Control: Git, GitHub, GitLab, Bitbucket
+Configuration Management: Ansible, Chef, Puppet
+
+PROFESSIONAL EXPERIENCE
+
+Senior DevOps Engineer | CloudTech Corporation | Feb 2021 - Present
+• Architect and manage AWS infrastructure supporting 50+ microservices handling 10M+ daily requests
+• Designed and implemented Kubernetes clusters on EKS reducing deployment time by 70%
+• Built automated CI/CD pipelines using Jenkins and GitLab CI for 30+ development teams
+• Implemented Infrastructure as Code using Terraform managing 200+ AWS resources
+• Reduced infrastructure costs by 35% through resource optimization and auto-scaling strategies
+• Established monitoring and alerting systems using Prometheus, Grafana, and ELK Stack
+• Led migration from EC2 to containerized architecture using Docker and Kubernetes
+• Implemented GitOps workflows using ArgoCD for automated deployments
+
+DevOps Engineer | StartupTech Inc. | Mar 2019 - Jan 2021
+• Built and maintained CI/CD pipelines for multiple projects using Jenkins and GitHub Actions
+• Automated infrastructure provisioning using Terraform and Ansible
+• Managed AWS services including EC2, S3, RDS, Lambda, CloudFront, and Route 53
+• Implemented containerization strategy using Docker across development and production environments
+• Created monitoring dashboards and alerts using CloudWatch and Datadog
+• Improved deployment frequency from weekly to daily through automation
+• Wrote Python and Bash scripts for automation and infrastructure management
+• Conducted disaster recovery drills and maintained backup strategies
+
+System Administrator | NetworkSolutions Ltd. | Jun 2017 - Feb 2019
+• Managed Linux and Windows server infrastructure for 100+ servers
+• Implemented automated backup and recovery solutions
+• Configured and maintained network security policies and firewalls
+• Monitored system performance and resolved infrastructure issues
+• Documented system configurations and operational procedures
+• Provided 24/7 on-call support for critical infrastructure
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Washington, Seattle | 2013 - 2017
+Focus: Networks and Distributed Systems
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect - Professional (2023)
+• AWS Certified DevOps Engineer - Professional (2022)
+• Certified Kubernetes Administrator (CKA) - CNCF (2021)
+• Certified Kubernetes Application Developer (CKAD) - CNCF (2022)
+• HashiCorp Certified: Terraform Associate (2021)
+• AWS Certified Security - Specialty (2023)
+
+TECHNICAL PROJECTS
+
+Multi-Region High-Availability Infrastructure
+• Designed and deployed multi-region AWS infrastructure with automatic failover
+• Implemented Route 53 health checks and CloudFront for global content delivery
+• Achieved 99.99% uptime SLA using auto-scaling and load balancing
+
+Kubernetes Migration Project
+• Led migration of 40+ applications from VMs to Kubernetes
+• Implemented Helm charts for application deployment and management
+• Reduced infrastructure costs by 40% while improving scalability
+
+Automated Security Compliance System
+• Built automated compliance checking using AWS Config and custom Lambda functions
+• Implemented automated remediation for common security issues
+• Created comprehensive audit logging and reporting system
+
+CI/CD Pipeline Standardization
+• Developed standardized CI/CD templates used across the organization
+• Reduced pipeline setup time from days to hours
+• Implemented automated testing, security scanning, and deployment gates
+
+SPEAKING & CONTRIBUTIONS
+• Speaker at AWS re:Invent 2023 - "Scaling Kubernetes in Production"
+• Regular contributor to Terraform and Kubernetes open-source projects
+• Technical blog writer with 20+ published articles on DevOps practices
+• Mentor at DevOps bootcamp programs
+
+ACHIEVEMENTS
+• Reduced deployment failures by 85% through improved automation and testing
+• Saved company $200K annually through infrastructure optimization
+• Successfully managed zero-downtime migration for critical production systems
+• Built disaster recovery system with RTO of <15 minutes
+
+LANGUAGES
+English (Native)
+Mandarin Chinese (Native)
+
+PROFESSIONAL INTERESTS
+Container orchestration, Cloud native technologies, Site Reliability Engineering,
+Infrastructure automation, DevSecOps practices, Microservices architecture

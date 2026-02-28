@@ -1,0 +1,136 @@
+EMMA RODRIGUEZ
+Full Stack Developer & UI/UX Designer
+
+Email: emma.rodriguez@email.com
+Phone: +1-555-0321
+Location: Austin, TX
+Portfolio: emma-rodriguez.com
+LinkedIn: linkedin.com/in/emmarodriguez
+
+PROFESSIONAL SUMMARY
+Creative Full Stack Developer with 4+ years of experience in building user-centric web applications. Strong expertise in modern JavaScript frameworks, responsive design, and user experience. Passionate about creating beautiful, accessible, and performant applications.
+
+TECHNICAL SKILLS
+Frontend: React.js, Vue.js, Next.js, TypeScript, JavaScript (ES6+), HTML5, CSS3
+Styling: Tailwind CSS, Styled Components, SASS, Material-UI, Bootstrap
+Backend: Node.js, Express.js, Python, Django, REST APIs, GraphQL
+Databases: MongoDB, PostgreSQL, MySQL, Firebase, Redis
+Design Tools: Figma, Adobe XD, Sketch, Photoshop, Illustrator
+Testing: Jest, React Testing Library, Cypress, Selenium
+Development Tools: Git, VS Code, npm, Webpack, Babel
+Other: Responsive Design, Accessibility (WCAG), SEO, Performance Optimization
+
+PROFESSIONAL EXPERIENCE
+
+Senior Frontend Developer | DigitalWave Agency | Jan 2022 - Present
+• Lead frontend development for 15+ client projects using React and Next.js
+• Design and implement responsive, accessible user interfaces following WCAG guidelines
+• Collaborate with UX designers to translate designs from Figma into pixel-perfect implementations
+• Improved website performance by 60% through optimization techniques and lazy loading
+• Mentor junior developers in React best practices and modern JavaScript
+• Conduct code reviews and establish frontend development standards
+• Implement comprehensive testing strategies using Jest and Cypress
+• Built reusable component library used across multiple projects
+
+Full Stack Developer | WebCreatives Studio | Jul 2020 - Dec 2021
+• Developed full-stack web applications using React, Node.js, and MongoDB
+• Created RESTful APIs and integrated third-party services
+• Designed user interfaces in Figma before implementation
+• Implemented authentication and authorization using JWT and OAuth
+• Built e-commerce platforms with payment integrations (Stripe, PayPal)
+• Optimized database queries and implemented caching strategies
+• Worked in Agile environment with 2-week sprints
+• Achieved 95% client satisfaction rate across 20+ projects
+
+Junior Web Developer | TechStart Solutions | Aug 2019 - Jun 2020
+• Built responsive websites using HTML, CSS, JavaScript, and Bootstrap
+• Developed interactive components using vanilla JavaScript and jQuery
+• Collaborated with designers to ensure design consistency
+• Fixed bugs and implemented new features for existing applications
+• Learned React and modern frontend development practices
+• Participated in daily stand-ups and sprint planning meetings
+
+Freelance Web Designer/Developer | Self-Employed | Jan 2018 - Jul 2019
+• Designed and developed websites for small businesses and startups
+• Provided branding and UI/UX design services
+• Managed client communications and project timelines
+• Built portfolio of 10+ successful client projects
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Texas at Austin | 2015 - 2019
+Minor: Digital Design
+GPA: 3.6/4.0
+
+CERTIFICATIONS
+• React - The Complete Guide (Udemy, 2021)
+• Advanced CSS and Sass (Udemy, 2020)
+• UI/UX Design Specialization (Coursera, 2020)
+• JavaScript Algorithms and Data Structures (freeCodeCamp, 2019)
+
+FEATURED PROJECTS
+
+E-Commerce Platform - "ShopEase"
+• Built full-stack e-commerce platform using Next.js, Node.js, and MongoDB
+• Implemented shopping cart, user authentication, and payment processing
+• Designed responsive UI with Tailwind CSS
+• Achieved 98/100 Lighthouse performance score
+• Technologies: Next.js, TypeScript, MongoDB, Stripe API, Vercel
+
+Task Management App - "ProductiveFlow"
+• Developed collaborative task management application
+• Real-time updates using WebSockets
+• Drag-and-drop interface with React Beautiful DnD
+• User authentication and team collaboration features
+• Technologies: React, Firebase, Material-UI, Redux
+
+Restaurant Booking System
+• Created online reservation system for restaurant chain
+• Integrated with POS system API
+• Mobile-responsive design with table layout visualization
+• Admin dashboard for managing reservations and tables
+• Technologies: Vue.js, Express.js, PostgreSQL, Socket.io
+
+Personal Portfolio Website
+• Designed and built personal portfolio site
+• Animated interactions and smooth scrolling effects
+• Optimized for SEO and accessibility
+• Blog section with CMS integration
+• Technologies: React, Next.js, Tailwind CSS, Contentful
+
+DESIGN PORTFOLIO
+• 50+ UI/UX designs created in Figma
+• Expertise in creating design systems and component libraries
+• Strong understanding of color theory, typography, and layout principles
+• Experience with user research, wireframing, and prototyping
+
+AWARDS & RECOGNITION
+• Winner - "Best Web Design" at Austin Web Summit 2022
+• Featured on Awwwards.com for portfolio design (2021)
+• Top 10 finalist - React Hackathon 2021
+
+PUBLICATIONS & TALKS
+• "Modern React Patterns" - Published in Dev.to (5K+ views)
+• "Accessibility in Web Development" - Speaker at Austin JS Meetup
+• Regular contributor to CSS-Tricks and Smashing Magazine
+
+VOLUNTEER WORK
+• Mentor at Girls Who Code workshop
+• Web development instructor at local coding bootcamp
+• Built pro-bono websites for 3 non-profit organizations
+
+LANGUAGES
+English (Native)
+Spanish (Native bilingual)
+Portuguese (Conversational)
+
+SOFT SKILLS
+• Strong communication and collaboration skills
+• Creative problem-solving approach
+• Excellent time management and organization
+• Client-facing experience with presentation skills
+• Passion for learning new technologies and design trends
+
+HOBBIES & INTERESTS
+UI/UX design, Typography, Digital art, Web animations, Photography,
+Contributing to open source, Attending tech meetups and conferences

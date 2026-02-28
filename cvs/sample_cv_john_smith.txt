@@ -1,0 +1,67 @@
+JOHN SMITH
+Software Engineer
+
+Email: john.smith@email.com
+Phone: +1-555-0123
+Location: San Francisco, CA
+
+PROFESSIONAL SUMMARY
+Software Engineer with 5 years of experience in full-stack web development and cloud technologies. Specialized in Python, JavaScript, and AWS services. Proven track record of delivering scalable applications and leading development teams.
+
+SKILLS
+Programming Languages: Python, JavaScript, TypeScript, Java, SQL
+Frameworks & Libraries: React, Node.js, Django, Flask, Express.js
+Cloud & DevOps: AWS (EC2, S3, Lambda, RDS), Docker, Kubernetes, CI/CD
+Databases: PostgreSQL, MongoDB, Redis, MySQL
+Machine Learning: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy
+Tools: Git, Jenkins, Jira, Postman
+
+PROFESSIONAL EXPERIENCE
+
+Senior Software Engineer | TechCorp Inc. | Jan 2021 - Present
+• Led a team of 5 developers in building a cloud-based analytics platform using Python and AWS
+• Designed and implemented microservices architecture using Docker and Kubernetes
+• Developed machine learning models for predictive analytics using TensorFlow and Python
+• Improved system performance by 40% through optimization and caching strategies
+• Implemented CI/CD pipelines using Jenkins and GitLab CI
+
+Software Engineer | WebSolutions Ltd. | Jun 2019 - Dec 2020
+• Developed RESTful APIs using Python Flask and Node.js
+• Built responsive frontend applications using React and TypeScript
+• Integrated third-party payment systems (Stripe, PayPal)
+• Collaborated with product team to deliver features in Agile sprints
+• Mentored junior developers and conducted code reviews
+
+Junior Developer | StartupXYZ | Aug 2018 - May 2019
+• Developed web applications using Python Django framework
+• Worked with PostgreSQL databases and optimized SQL queries
+• Participated in daily stand-ups and sprint planning meetings
+• Implemented unit tests and integration tests using PyTest
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of California, Berkeley | 2014 - 2018
+GPA: 3.7/4.0
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect - Associate (2021)
+• Certified Kubernetes Administrator (2022)
+• Python Programming Certification (2019)
+
+PROJECTS
+E-commerce Platform
+• Built a full-stack e-commerce platform using React, Node.js, and MongoDB
+• Implemented user authentication, payment processing, and order management
+• Deployed on AWS using EC2 and S3 for static assets
+
+AI Chatbot
+• Developed an AI-powered chatbot using Python, TensorFlow, and natural language processing
+• Integrated with Slack API for team communication
+• Achieved 85% accuracy in intent classification
+
+LANGUAGES
+English (Native)
+Spanish (Intermediate)
+
+INTERESTS
+Open source contribution, Machine Learning, Cloud Architecture, Team Leadership
