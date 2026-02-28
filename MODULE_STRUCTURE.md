@@ -5,7 +5,6 @@
 The codebase has been refactored into a modular architecture for better maintainability and scalability:
 
 ```
-session 7/
 ├── app.py                      # Main Streamlit application (entry point)
 ├── config.py                   # Configuration, constants, and prompt templates
 ├── utils.py                    # Utility functions (PDF, name extraction, file handling)
@@ -273,3 +272,4 @@ When adding new features:
 ---
 
 **Built with ❤️ using LangChain, Google Gemini, and Streamlit**
+
