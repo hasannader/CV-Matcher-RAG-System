@@ -166,10 +166,7 @@ pip install -r requirements.txt
 # 4. Set up environment variables
 echo "GOOGLE_API_KEY=your_api_key_here" > .env
 
-# 5. Generate sample CVs (optional)
-python convert_cvs_to_pdf.py
-
-# 6. Run the application
+# 5. Run the application
 streamlit run app.py
 ```
 
@@ -229,15 +226,6 @@ Create a `.env` file in the project root:
 ```env
 GOOGLE_API_KEY=your_actual_api_key_here
 ```
-
-5. **Prepare Sample CVs (Optional)**
-
-```bash
-pip install reportlab
-python convert_cvs_to_pdf.py
-```
-
-This creates 5 sample CVs in the `cvs/` folder with diverse professional profiles.
 
 ---
 
@@ -324,6 +312,7 @@ Your custom prompt here...
 ## 📁 Project Structure
 
 ```
+session 7/
 ├── app.py                     # Main Streamlit application (entry point)
 ├── config.py                  # Configuration and prompt templates
 ├── utils.py                   # Utility functions (PDF, file handling)
@@ -336,7 +325,6 @@ Your custom prompt here...
 │   ├── sample_cv_sarah_johnson.pdf
 │   └── ...
 ├── uploads/                   # User-uploaded CVs (auto-created)
-├── convert_cvs_to_pdf.py     # Helper script for generating PDFs
 ├── README.md                  # This file
 └── MODULE_STRUCTURE.md        # Detailed module documentation
 ```
