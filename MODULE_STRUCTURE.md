@@ -5,11 +5,11 @@
 The codebase has been refactored into a modular architecture for better maintainability and scalability:
 
 ```
+session 7/
 ├── app.py                      # Main Streamlit application (entry point)
 ├── config.py                   # Configuration, constants, and prompt templates
 ├── utils.py                    # Utility functions (PDF, name extraction, file handling)
 ├── rag_system.py               # CVMatcherRAG class implementation
-├── cv_matcher_rag.py          # Original monolithic version (kept for reference)
 ├── requirements.txt            # Python dependencies
 ├── .env                        # Environment variables (API keys)
 ├── .gitignore                  # Git ignore rules
@@ -105,12 +105,7 @@ results = rag.find_matching_candidates("Python developer with ML experience")
 streamlit run app.py
 ```
 
-### Option 2: Run the Original Monolithic Version
-```bash
-streamlit run cv_matcher_rag.py
-```
-
-Both versions have the same functionality. The modular version is better for:
+The modular version provides:
 - **Maintenance**: Easy to update specific components
 - **Testing**: Each module can be tested independently
 - **Scalability**: Can add new features without cluttering code
@@ -244,14 +239,7 @@ name = extract_candidate_name("JOHN SMITH\nSoftware Engineer...", "test.pdf")
 print(name)  # Should print "John Smith"
 ```
 
-## 🔄 Migration Path
-
-If you prefer the original single-file version:
-- `cv_matcher_rag.py` is kept for backward compatibility
-- Both versions are functionally identical
-- New features will be added to the modular version
-
-## 📝 Future Enhancements
+##  Future Enhancements
 
 The modular structure makes it easy to add:
 - Automated testing suite
@@ -272,4 +260,3 @@ When adding new features:
 ---
 
 **Built with ❤️ using LangChain, Google Gemini, and Streamlit**
-
