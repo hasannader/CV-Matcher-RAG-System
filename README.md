@@ -312,7 +312,6 @@ Your custom prompt here...
 ## 📁 Project Structure
 
 ```
-session 7/
 ├── app.py                     # Main Streamlit application (entry point)
 ├── config.py                  # Configuration and prompt templates
 ├── utils.py                   # Utility functions (PDF, file handling)
